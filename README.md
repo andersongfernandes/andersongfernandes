@@ -1,2 +1,2 @@
-Sou Anderson.
-Quero aprender a forma mais eficiente para criar chatbots, seja pode mensageria ou por website.
+Sou Anderson, um daqueles que sempre sempre acho que seria um dev eficiente e resolveu realizar esse sonho depois dos 45 anos.
+Minha paixão é o conversational commerce, chatbots.
