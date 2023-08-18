@@ -1,3 +1,3 @@
-Sou Anderson, um daqueles que sempre achou que seria um dev eficiente e resolveu realizar esse sonho depois dos 45 anos.
+I'm Anderson, one of those who always believed in becoming an efficient dev and pursued that dream after 45. 
 
-Extrair insights a partir de mensagerias: isso me motiva!
+Extracting insights from messages: that's what drives me!
