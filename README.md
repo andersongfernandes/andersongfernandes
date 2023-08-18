@@ -1,3 +1,7 @@
-I'm Anderson, one of those who always believed in becoming an efficient dev and pursued that dream after 45. 
+Hello, I'm Anderson. 
 
-Extracting insights from messages: that's what drives me!
+I've always harbored the ambition of becoming an efficient developer, and I turned that aspiration into reality after crossing the age of 45. 
+
+With a background in electronic engineering, I navigated through technical and operational roles in content production, streaming and audiovisual broadcasting. Now, having transitioned from a successful career in engineering, I'm pursuing my passion as a professional developer. 
+
+Extracting insights from messaging platforms fuels my drive to excel.
